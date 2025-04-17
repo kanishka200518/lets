@@ -9,6 +9,7 @@ added code:
 
 
 Java feature
+
 2. Display total registered users:retrieves how many users are currently registered
 added code :
 const [totalRegistered, setTotalRegistered] = useState(0);
