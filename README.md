@@ -24,3 +24,7 @@ setTotalRegistered(peopleData.length);
 
 console.log("Total registered users:", totalRegistered);
 
+
+![FEC BLOCKBASE](https://github.com/user-attachments/assets/e85b0cec-bbd1-434e-9bfb-2156601b05be)
+
+
